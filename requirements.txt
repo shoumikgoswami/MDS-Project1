@@ -1,6 +1,6 @@
 cachetools==2.1.0
 catboost==0.8.1.1
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.10.0
 chardet==3.0.3
 click==6.7
